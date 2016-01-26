@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.gallagher.anthony.hour2application.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_dunlop"
+        android:id="@+id/buttonDunlop"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="33dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_pirelli"
+        android:id="@+id/buttonPirelli"
+        android:layout_below="@+id/buttonDunlop"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/buttonDunlop"
+        android:layout_alignEnd="@+id/buttonDunlop" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_metzeler"
+        android:id="@+id/buttonMetzeler"
+        android:layout_below="@+id/buttonPirelli"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/buttonPirelli"
+        android:layout_alignEnd="@+id/buttonPirelli" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_michelin"
+        android:id="@+id/buttonMichelin"
+        android:layout_below="@+id/buttonMetzeler"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/buttonMetzeler"
+        android:layout_alignEnd="@+id/buttonMetzeler" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_bridgestone"
+        android:id="@+id/buttonBridgestone"
+        android:layout_below="@+id/buttonMichelin"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/buttonMichelin"
+        android:layout_alignEnd="@+id/buttonMichelin" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_continental"
+        android:id="@+id/buttonContinental"
+        android:layout_below="@+id/buttonBridgestone"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/buttonBridgestone"
+        android:layout_alignEnd="@+id/buttonBridgestone" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_avon"
+        android:id="@+id/buttonAvon"
+        android:layout_below="@+id/buttonContinental"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/buttonContinental"
+        android:layout_alignEnd="@+id/buttonContinental" />
+
+</RelativeLayout>

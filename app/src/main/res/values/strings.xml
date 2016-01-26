@@ -1,0 +1,235 @@
+<resources>
+    <string name="app_name">Tire Pressures</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Tire Pressures</string>
+
+
+    <string name="title_activity_secondary">Dunlop Tire Pressures</string>
+    <string name="button_dunlop">Dunlop</string>
+    <string name="dunlop_tire_pressures">Dunlop Tire Pressures</string>
+    <string name="coldpsi">Cold Psi:</string>
+    <string name="labelcold">Cold Psi:</string>
+    <string name="alpha13">Front 30\n<br>
+
+    Rear 28</br></string>
+    <string name="d209gp">Front 30\n<br>
+        Rear 28</br></string>
+    <string name="d211gpa">Front 31\n<br>
+        Rear:/n190 20\n160 28
+    </br></string>
+    <string name="d212gp">Front 31\nRear 21</string>
+    <string name="gpapro">Front 31\nRear 20</string>
+    <string name="kr106">Front 31</string>
+    <string name="kr108">Rear superMoto 21\n<br>
+    250gp 28</br></string>
+    <string name="kr189">Front\n<br>
+    110 29\n
+    120 34.5</br></string>
+    <string name="kr393">Rear\n
+        140 29\n
+        190 34.5</string>
+    <string name="kr448">Front 31</string>
+    <string name="kr449">Rear\n
+        190 21\n
+        200 21</string>
+    <string name="kr451">Rear 20.5</string>
+    <string name="unbeaten02">Front 30\n
+        Rear 28</string>
+    <string name="dulop">Dunlop</string>
+
+
+
+    <string name="button_pirelli">Pirelli</string>
+    <string name="pirelli_tire_pressures">Pirelli Tire Pressures</string>
+    <string name="title_activity_third">Pirelli Tire Pressures</string>
+
+    <!-- redundant -->
+    <string name="pirellicoldpsi">Cold Psi:</string>
+    <string name="pirellilabelcold">Cold Psi:</string>
+
+
+    <string name="diablosuperbike">Front:\n<br>
+            120/75R420 31/35\n<br>
+            120/70R17 31/35\n<br>
+            Rear:\n<br>
+            160/60R17 25/28\n<br>
+            180/55R17 25/28\n<br>
+            190/55R17 25/28\n<br>
+            190/65R420 25/28\n<br>
+            200/60R17 25/28
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+
+    </br></string>
+    <string name="diablosupercorsa">Front:\n<br>
+            110/70ZR17 29/32\n<br>
+            120/70ZR17 29/32\n<br>
+            Rear:\n<br>
+            150/60ZR17 25/28\n<br>
+            160/60ZR17 25/28\n<br>
+            180/55ZR17 25/28\n<br>
+            180/60ZR17 25/28\n<br>
+            190/55ZR17 25/28\n<br>
+            200/55ZR17 25/28
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br></string>
+    <string name="diablorossocorsa">Front:\n<br>
+            120/70-17 31/35\n<br>
+            Rear:\n<br>
+            160/60-17 26/32\n<br>
+            180/55-17 28/32\n<br>
+            190/55-17 28/32
+    </br>
+    </br>
+    </br>
+    </br>
+    </br></string>
+    <string name="diablorain">Front:\n<br>
+            120/75-420 34\n<br>
+            120/70-17 34\n<br>
+            Rear:\n<br>
+            160/60-17 29\n<br>
+            190/60-17 29\n<br>
+            190/65-420 29/32
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br></string>
+
+
+    <string name="title_activity_fourth">Metzeler Tire Pressures</string>
+    <string name="button_metzeler">Metzeler</string>
+    <string name="metzeler_tire_pressures">Metzeler Tire Pressures</string>
+    <string name="metzelercoldpsi">Cold Psi:</string>
+    <string name="mCold">Cold:</string>
+    <string name="racetecrr">TODO get pressures</string>
+    <string name="sportecm5">TODO get pressures</string>
+    <string name="sportecm3">TODO get pressures</string>
+    <string name="sportecm7rr">TODO get pressures</string>
+    <string name="roadtecz6">TODO get pressures</string>
+    <string name="roadtecz6interact">TODO get pressures</string>
+    <string name="mez4">TODO get pressures</string>
+    <string name="mez2">TODO get pressures</string>
+
+    <string name="title_activity_fifth">Michelin Tire Pressures</string>
+    <string name="button_michelin">Michelin</string>
+    <string name="michelin_tire_pressures">Michelin Tire Pressures</string>
+    <string name="michelincoldpsi">Cold Psi:</string>
+    <string name="powerslickevo">Front 30 \n<br>Rear 22</br></string>
+    <string name="powercupevo">Front 30 \n<br>Rear 22</br></string>
+    <string name="powerrain">Front 33\n<br>Rear 26</br></string>
+    <string name="powersupersportevo">Front 30 \n<br>Rear 25 </br></string>
+    <string name="powersupersport">Front 30 \n<br>Rear 27 </br></string>
+    <string name="powersupermoto">Front 26 \n<br>Rear 23 </br></string>
+
+
+
+
+    <string name="title_activity_sixth">Continental Tire Pressures</string>
+    <string name="button_continental">Continental</string>
+    <string name="continental_tire_pressures">Continental Tire Pressures</string>
+    <string name="continentalcoldpsi">Cold Psi:</string>
+    <string name="contitrack">Front 00\n<br>
+        Rear 00
+    </br></string>
+    <string name="contiraceattackrain">Front 00\n<br>
+        Rear 00
+    </br></string>
+    <string name="contiraceattackslick">Front 00\n<br>
+        Rear 00
+    </br></string>
+    <string name="contisportattack3">Front 00\n<br>
+        Rear 00
+    </br></string>
+    <string name="contisportattack2">Front 00\n<br>
+        Rear 00
+    </br></string>
+    <string name="contisportattack">Front 00\n<br>
+        Rear 00
+    </br></string>
+    <string name="contiraceattackcompend">Front 00\n<br>
+        Rear 00
+    </br></string>
+    <string name="contiraceattackcomp">Front 00\n<br>
+        Rear 00
+    </br></string>
+
+    <string name="title_activity_seventh">Bridgestone Tire Pressures</string>
+    <string name="button_bridgestone">Bridgestone</string>
+    <string name="bridgestone_tire_pressures">Bridgestone Tire Pressures</string>
+    <string name="bridgestonecoldpsi">Cold Psi:</string>
+    <string name="battleaxv02">Front 26-27\n<br>
+        Rear 20-22
+    </br></string>
+    <string name="bt003">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="gpslick">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="bt011">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="bt012">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="bt014">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="bt015">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="bt016">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="bt016pro">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="bt020">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="bt021">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="bt023">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="bt028">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="bt090">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+
+
+    <string name="title_activity_eighth">Avon Tire Pressures</string>
+    <string name="button_avon">Avon</string>
+    <string name="avon_tire_pressures">Avon Tire Pressures</string>
+    <string name="avonColdPsi">Cold Psi2</string>
+    <string name="avoncoldpsi">Cold Psi</string>
+    <string name="ultraxtreme3d">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="ultrasport3d">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+    <string name="ultrasupersport3d">Front TODO get pressures\n<br>
+        Rear TODO get pressures
+    </br></string>
+
+
+</resources>
